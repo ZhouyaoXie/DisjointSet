@@ -7,8 +7,8 @@ An implementation of disjoint set in Python with path compression and union by r
 
 ### Space Complexity
 
-O(V), where V is the number of vertices
+- O(V), where V is the number of vertices
 
 ### Use Case
 
-- connectedComponent.py: an example use case for finding the number of connected components in a graph
+- `connectedComponent.py`: an example use case for finding the number of connected components in a graph
